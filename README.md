@@ -13,6 +13,22 @@
 
 <br><br>
 
+## Languages and Tools
+
+I mainly use the following languages and tools in my projects:
+
+-   Python
+-   JavaScript
+-   Typescript
+-   Next.js
+-   Nest JS
+
+<br><br>
+
+## Current Projects
+
+-   Happy Little Dinosaurs [ Working on a copy of the game, still in starting phase ]
+
 ## My Hackatime Stats
 
 <img align='center' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=11228&api_domain=hackatime.hackclub.com&theme=gruvbox_light&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8' alt='Hackatime Stats'>
