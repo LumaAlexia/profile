@@ -10,4 +10,6 @@
 <p>Italian Student | 17 y/o</p>
 <p>Partecipant for Summer of Making 2025 Contest</p>
 
+## My Hackatime Stats
+
 <img align='center' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=11228&api_domain=hackatime.hackclub.com&theme=gruvbox_light&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8' alt='Hackatime Stats'>
